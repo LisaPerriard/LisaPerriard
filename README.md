@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Lisa 👋
+
+``🎓 Software Engineering student at HEIG-VD``
+
+### Languages:
+- C
+- C++
+- Java
+- Python
 
 <!--
 **LisaPerriard/LisaPerriard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
