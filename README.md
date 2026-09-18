@@ -8,6 +8,9 @@
 - Java
 - Python
 
+### 📫 How to reach me: 
+    lisa.perriard@heig-vd.ch
+
 <!--
 **LisaPerriard/LisaPerriard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
