@@ -2,7 +2,9 @@
 
 ``🎓 Software Engineering student at HEIG-VD``
 
+
 ### Languages :
+
 - C
 - C++
 - Java
