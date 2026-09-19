@@ -10,6 +10,8 @@
 - Java
 - Python
 
+## I enjoy working as part of a team 😄
+
 ### 📫 How to reach me: 
     lisa.perriard@heig-vd.ch
 
